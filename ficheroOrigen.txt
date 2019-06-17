@@ -1,0 +1,2 @@
+C es un lenguaje de programación de propósito general2?:1 originalmente desarrollado por Dennis Ritchie entre 1969 y 1972 en los Laboratorios Bell,1? como evolución del anterior lenguaje B, a su vez basado en BCPL.2?:13?4?
+Al igual que B, es un lenguaje orientado a la implementación de Sistemas operativos, concretamente Unix. C es apreciado por la eficiencia del código que produce y es el lenguaje de programación más popular para crear software de sistemas, aunque también se utiliza para crear aplicaciones. 
